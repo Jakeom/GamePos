@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="구성_요소_1_1" width="512" height="512" viewBox="0 0 512 512">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".246" x2=".762" y1=".111" y2=".851" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#09f"/>
+            <stop offset="1" stop-color="#02068b"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:43px}
+        </style>
+    </defs>
+    <rect id="사각형_1" width="512" height="512" fill="url(#linear-gradient)" rx="80"/>
+    <g id="Icon_feather-check-circle" transform="translate(113 113.009)">
+        <path id="패스_1" d="M283.2 130.291v12.889a140.1 140.1 0 1 1-83.08-128.053" class="cls-2"/>
+        <path id="패스_2" d="M195.632 6L55.531 146.242 13.5 104.211" class="cls-2" transform="translate(87.572 25.098)"/>
+    </g>
+</svg>
